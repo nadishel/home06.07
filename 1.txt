@@ -1,0 +1,10 @@
+package home.perwoe;
+
+public class Home1 {
+    public static void main(String[] args) {
+        String pac = "Home";
+        int a = Integer.parseInt("12");
+        System.out.println(pac);
+        System.out.println(a);
+    }
+}
